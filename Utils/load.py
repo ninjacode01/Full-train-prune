@@ -5,6 +5,7 @@ import torch.optim as optim
 from Models import mlp
 from Models import lottery_vgg
 from Models import lottery_resnet
+from Models import resnet18
 from Models import tinyimagenet_vgg
 from Models import tinyimagenet_resnet
 from Models import imagenet_vgg
